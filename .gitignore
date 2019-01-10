@@ -2,7 +2,7 @@
 .vs/
 
 #This was an error
-*.pak
+WindowsNoEditor/*
 
 # Compiled Object files
 *.slo
