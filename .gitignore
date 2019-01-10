@@ -2,7 +2,7 @@
 .vs/
 
 #This was an error
-.pak
+*.pak
 
 # Compiled Object files
 *.slo
