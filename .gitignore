@@ -3,6 +3,7 @@
 
 #This was an error
 WindowsNoEditor/*
+*.pak
 
 # Compiled Object files
 *.slo
