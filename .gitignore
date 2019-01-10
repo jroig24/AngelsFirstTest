@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#This was an error
+.pak
+
 # Compiled Object files
 *.slo
 *.lo
